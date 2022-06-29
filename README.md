@@ -1,4 +1,4 @@
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm José!</h1>
+<h1 align="left">Hi there, I'm José!</h1>
 
 I'm a Mechatronics engineering student at the Federal University of Uberlândia - UFU.:
 
