@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm José!</h1>
+<h1 align="left">Hello there, I'm José!</h1>
 
 I'm a Mechatronics engineering student at the Federal University of Uberlândia - UFU.:
 
