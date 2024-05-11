@@ -1,7 +1,3 @@
-# Hi 👋, I'm José Divino Jr
-
-## 👨‍💻 About Me
-
 - 💡 Software Developer at [Landix Sistemas](https://landix.com.br) and Mechatronics Engineer graduated from Universidade Federal de Uberlândia (UFU).
 - 🧰 Currently working mostly with Python, .NET Framework (C#), Vue.js and AWS.
 
@@ -12,7 +8,7 @@
     </i>
 </div>
 
-## 🛠️ Technology Stack
+## 🛠️ Stack
 
 ### 💻 Back-End Development
 
@@ -22,8 +18,9 @@
 
 ### 🎨 Front-End Development
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Languages and Tools:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks:** Vue.js, Next.js
+
 
 ### 💼 Other Tools and Technologies
 
