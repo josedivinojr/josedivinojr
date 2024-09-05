@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm José Divino Jr. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="auto" width="30">
 
-<!--
-**josedivinojr/josedivinojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Developer based in Brazil
 
-Here are some ideas to get you started:
+I have experience with Python, C#, Vue.j and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I’m currently working at Landix Sistemas.
+- ⚙️ I use daily: Python (Flask, Django), C# (.NET), Vue.js (JavaScript, TypeScript), AWS, SQL (Oracle, Postgres, SQLServer), SQLite, MongoDB
+- 🌱 Learning more about **Cloud Solutions and DevOps**
+
+### 🤝🏻 Connect with Me
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josedivinojr)
