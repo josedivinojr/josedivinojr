@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm José Divino Jr. 🇧🇷  
 
-<!--
-**josedivinojr/josedivinojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brazilian **Software Developer** 💻 building efficient and scalable applications with **Python**, **Java**, and **Cloud Computing** ☁️.
 
-Here are some ideas to get you started:
+**🛠️ Experienced with:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java, Python (Flask, Django), C# (.NET), JavaScript/TypeScript (Vue.js), AWS, Oracle, Postgres, SQL Server, SQLite, MongoDB
+
+**💼 Currently working with:**
+
+Amazon Web Services (AWS), Python, C# (.NET), and JavaScript/TypeScript (Vue.js)
+
+**📚 Currently learning:**
+
+Cloud Solutions and DevOps 🚀  
+
+## 🦄 Reach Out
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josedivinojr)
