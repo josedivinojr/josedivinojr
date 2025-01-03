@@ -1,10 +1,8 @@
-# Hi, I'm José Divino Jr. 🇧🇷  
-
 Brazilian **Software Developer** 💻 building efficient and scalable applications with **Python**, **Java**, and **Cloud Computing** ☁️.
 
 **🛠️ Experienced with:**
 
-Java, Python (Flask, Django), C# (.NET), JavaScript/TypeScript (Vue.js), AWS, Oracle, Postgres, SQL Server, SQLite, MongoDB
+Java, Python (FastAPI, Flask, Django), C# (.NET), JavaScript/TypeScript (Vue.js), AWS, Oracle, Postgres, SQL Server, SQLite, MongoDB
 
 **💼 Currently working with:**
 
