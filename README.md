@@ -1,16 +1,20 @@
-## Hi there 👋
+Brazilian **Software Developer** building efficient and scalable applications with **Python**, **.NET Framework**, and **Cloud Computing** ☁️.
 
-<!--
-**josedivinojr/josedivinojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🛠 Stack:**
+  - **Backend:** Python (FastAPI, Django), C# (.NET), Typescript/Javascript (Node.js)
+  - **Mobile:** C# (Xamarin)
+  - **Frontend:** Vue.js, React
+  - **Embedded:** C++ (AVR, ESP32)
+  - **Databases:** Oracle, PostgreSQL, SQL Server, SQLite, MongoDB
+  - **Cloud:** Amazon Web Services (AWS)
+  - **DevOps & Tooling:** Terraform, Docker
+  
+**🎓 University :** Universidade Federal de Uberlândia – Mechatronics Engineering
 
-Here are some ideas to get you started:
+**📚 Currently learning:** Cloud Solutions & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🦄 Reach Out**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josedivinojr)
