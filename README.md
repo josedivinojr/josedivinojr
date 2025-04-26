@@ -2,7 +2,7 @@ Brazilian **Software Developer** building efficient and scalable applications wi
 
 **🛠 Stack:**
   - **Backend:** Python (FastAPI, Django), C# (.NET), Typescript/Javascript (Node.js)
-  - **Mobile:** C# (Xamarin)
+  - **Mobile:** C# (Xamarin/.NET for Android)
   - **Frontend:** Vue.js, React
   - **Embedded:** C++ (AVR, ESP32)
   - **Databases:** Oracle, PostgreSQL, SQL Server, SQLite, MongoDB
